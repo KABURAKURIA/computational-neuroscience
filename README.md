@@ -1,15 +1,10 @@
-# 🧠 Computational Neuroscience Research Suite
-
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Domain](https://img.shields.io/badge/Domain-Neuroscience%20%26%20Dynamical%20Systems-purple.svg)](https://github.com/KABURAKURIA/computational-neuroscience)
+# Computational Neuroscience Research Suite
 
 A comprehensive research suite comprising **27 mathematical modeling notebooks** implementing biophysical neuron dynamics, synaptic plasticity (STDP), dynamical network systems, cognitive attractor memory, and predictive coding.
 
 ---
 
-## 🔬 Mathematical Models & Simulations
+## Mathematical Models & Simulations
 
 This repository implements canonical equations in computational neuroscience:
 
@@ -36,7 +31,7 @@ This repository implements canonical equations in computational neuroscience:
 
 ---
 
-## 📚 Notebook Directory
+## Notebook Directory
 
 ```
 ├── Single_Neuron_Models.ipynb              # Leaky Integrate-and-Fire, Hodgkin-Huxley
@@ -70,7 +65,7 @@ This repository implements canonical equations in computational neuroscience:
 
 ---
 
-## 💻 Environment Setup
+## Environment Setup
 
 ```bash
 git clone https://github.com/KABURAKURIA/computational-neuroscience.git
@@ -85,6 +80,6 @@ jupyter notebook
 
 ---
 
-## 📄 License
+## License
 
 MIT License.
